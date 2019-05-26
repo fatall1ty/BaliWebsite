@@ -70,25 +70,25 @@ body {
 }
 
 .container .slider .slide.slide1 {
-    background-image: url("img/img4.jpg");
+    background-image: url("../img/img4.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .container .slider .slide.slide2 {
-    background-image: url("img/img2.jpg");
+    background-image: url("../img/img2.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .container .slider .slide.slide3 {
-    background-image: url("img/img3.jpg");
+    background-image: url("../img/img3.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .container .slider .slide.slide4 {
-    background-image: url("img/img1.jpg");
+    background-image: url("../img/img1.jpg");
     background-size: cover;
     background-position: center;
 }
